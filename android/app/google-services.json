@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "247065335725",
+    "project_id": "reporting-mad-app",
+    "storage_bucket": "reporting-mad-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247065335725:android:dfd37253d3815e6006f324",
+        "android_client_info": {
+          "package_name": "com.example.maintain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247065335725-cgl8tvq8tfgi43qcejc3mnbutivie5av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvksoUF_O3oQ1BC7wnEjBfrrslqyNqSm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247065335725-cgl8tvq8tfgi43qcejc3mnbutivie5av.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247065335725-5td01gd6vl7p6vrov63031fjss3q862h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maintain.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
